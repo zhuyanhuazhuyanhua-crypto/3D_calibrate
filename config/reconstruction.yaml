@@ -1,0 +1,8 @@
+sfm:
+  engine: "placeholder"
+  use_colmap: false
+  colmap_path: null  # 可设置为自定义 colmap 可执行文件路径，例如: "C:/Program Files/Colmap/colmap.exe"
+mvs:
+  engine: "placeholder"
+meshing:
+  method: "poisson"

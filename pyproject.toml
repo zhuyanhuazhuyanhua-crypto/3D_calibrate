@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "cultural-heritage-3d-reconstruction"
+version = "0.1.0"
+description = "Project skeleton for cultural heritage 3D reconstruction"
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.8,<3.12"
+numpy = "*"
+opencv-python = "*"
+pyyaml = "*"
+open3d = "*"
+trimesh = "*"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

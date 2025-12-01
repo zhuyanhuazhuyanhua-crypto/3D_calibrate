@@ -1,0 +1,4 @@
+raw_images: "data/raw/images"
+raw_pointclouds: "data/raw/pointclouds"
+processed: "data/processed"
+outputs: "data/outputs"

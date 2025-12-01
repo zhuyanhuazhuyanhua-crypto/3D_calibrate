@@ -1,0 +1,8 @@
+viewer: "open3d"
+point_size: 2.0
+background_color: [0.05, 0.05, 0.06]
+potree_converter_path: null  # 可选：PotreeConverter 可执行文件路径，例如 "C:/tools/PotreeConverter.exe"
+export_formats:
+	- potree
+	- glb
+
